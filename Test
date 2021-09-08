@@ -1,767 +1,1350 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="ABC" tvg-logo="" group-title="ENTERTAINMENT",ABC
-http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="ENTERTAINMENT",A&E
-http://31.220.41.88:8081/live/us-ae.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="AMC" tvg-logo="" group-title="ENTERTAINMENT",AMC
-http://31.220.41.88:8081/live/us-amc.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="CBS" tvg-logo="" group-title="ENTERTAINMENT",CBS
-http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="" tvg-logo="" group-title="ENTERTAINMENT",COMEDY CENTRAL
-http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DAVE" tvg-logo="" group-title="ENTERTAINMENT",DAVE
-http://31.220.41.88:8081/live/dave.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FOX" tvg-logo="" group-title="ENTERTAINMENT",FOX
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FX" tvg-logo="" group-title="ENTERTAINMENT",FX
-http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FXX" tvg-logo="" group-title="ENTERTAINMENT",FXX
-http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="FREEFORM" tvg-logo="" group-title="ENTERTAINMENT",FREEFORM
-http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="" group-title="ENTERTAINMENT",SYFY
-http://31.220.41.88:8081/live/us-syfy.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="TBS" tvg-logo="" group-title="ENTERTAINMENT",TBS
-http://31.220.41.88:8081/live/us-tbs.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="TNT" tvg-logo="" group-title="ENTERTAINMENT",TNT
-http://31.220.41.88:8081/live/us-tnt.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="USA NETWORK" tvg-logo="" group-title="ENTERTAINMENT",USA NETWORK
-http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="VH1" tvg-logo="" group-title="ENTERTAINMENT",VH1
-http://31.220.41.88:8081/live/us-vh1.stream/token=null
-
-
-
-#EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="CINEMAX ACTION" tvg-logo="" group-title="MOVIES",CINEMAX ACTION
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/token=null
-#EXTINF:-1 tvg-name="HALLMARK" tvg-logo="" group-title="MOVIES",HALLMARK
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="HBO" tvg-logo="" group-title="MOVIES",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="HBO FAMILY" tvg-logo="" group-title="MOVIES",HBO FAMILY
-http://31.220.41.88:8081/live/us-hbofamily.stream/token=null
-#EXTINF:-1 tvg-name="HBO ZONE" tvg-logo="" group-title="MOVIES",HBO ZONE
-http://31.220.41.88:8081/live/us-hbozone.stream/token=null
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="" group-title="MOVIES",LIFETIME
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="PARAMOUNT" tvg-logo="" group-title="MOVIES",PARAMOUNT
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SHOWTIME" tvg-logo="" group-title="MOVIES",SHOWTIME
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="SHOWTIME 2" tvg-logo="" group-title="MOVIES",SHOWTIME 2
-http://31.220.41.88:8081/live/us-showtime2.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES ACTION & ADVENTURE" tvg-logo="" group-title="MOVIES",SKY MOVIES ACTION & ADVENTURE
-http://31.220.41.88:8081/live/maction.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES COMEDY" tvg-logo="" group-title="MOVIES",SKY MOVIES COMEDY
-http://31.220.41.88:8081/live/mcomedy.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES CRIME & TRILLER" tvg-logo="" group-title="MOVIES",SKY MOVIES CRIME & TRILLER
-http://31.220.41.88:8081/live/mcrime.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES DISNEY" tvg-logo="" group-title="MOVIES",SKY MOVIES DISNEY
-http://31.220.41.88:8081/live/mdisney.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES DRAMA" tvg-logo="" group-title="MOVIES",SKY MOVIES DRAMA
-http://31.220.41.88:8081/live/mdrama.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES FAMILY" tvg-logo="" group-title="MOVIES",SKY MOVIES FAMILY
-http://31.220.41.88:8081/live/mfamily.stream/token=null
-#EXTINF:-1 tvg-name="SKY MOVIES PREMIERE" tvg-logo="" group-title="MOVIES",SKY MOVIES PREMIERE
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="STARZ" tvg-logo="" group-title="MOVIES",STARZ
-http://31.220.41.88:8081/live/us-starz.stream/token=null
-#EXTINF:-1 tvg-name="STARZ CINEMA" tvg-logo="" group-title="MOVIES",STARZ CINEMA
-http://31.220.41.88:8081/live/us-starzcinema.stream/token=null
-#EXTINF:-1 tvg-name="STARZ EDGE" tvg-logo="" group-title="MOVIES",STARZ EDGE
-http://31.220.41.88:8081/live/us-starzedge.stream/token=null
-#EXTINF:-1 tvg-name="STARZ ENCORE" tvg-logo="" group-title="MOVIES",STARZ ENCORE
-http://31.220.41.88:8081/live/us-starzencore.stream/token=null
-#EXTINF:-1 tvg-name="SYFY" tvg-logo="" group-title="MOVIES",SYFY
-http://31.220.41.88:8081/live/us-syfy.stream/token=null
-
-
-
-#EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY" tvg-logo="" group-title="KIDS",DISNEY
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISNEY XD" tvg-logo="" group-title="KIDS",DISNEY XD
-http://31.220.41.88:8081/live/us-disneyxd.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="Nick" tvg-logo="" group-title="KIDS",Nick
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="Nick Jr" tvg-logo="" group-title="Kids",Nick Jr
-http://31.220.41.88:8081/live/uk-nickjr.stream/token=null
-
-
-
-#EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet
-http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
-#EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="LIFETIME" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTu84rqUgvHxJ7Y8BsmgOoKLSao-ssNSEDtg&usqp=CAU.png" group-title="MOVIES",LIFETIME
-http://31.220.41.88:8081/live/us-lifetime.stream/token=null
-
-
-
-#EXTINF:-1 tvg-name="Bein Sports" tvg-logo="" group-title="SPORTS",Bein Sports
-http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="SPORTS",ESPN
-http://31.220.41.88:8081/live/espnusahd.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-name="ESPN 2" tvg-logo="" group-title="SPORTS",ESPN 2
-http://31.220.41.88:8081/live/espn2hd.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-name="FS1" tvg-logo="" group-title="SPORTS",FS1
-http://31.220.41.88:8081/live/foxsports1.stream/chunks.m3u8?token=null
-#EXTINF:-1 tvg-name="FS2" tvg-logo="" group-title="SPORTS",FS2
-http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
-
-
-
-#EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="" group-title="NEWS",ABC NEWS
-http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="NASIONAL",ANTV
-http://210.210.155.35:80/qwr9ew/s/s07/01.m3u8
-#EXTINF:-1 group-title="NASIONAL",ANTV (Link 2)
-http://nonton.wap.sh/id/001.m3u8
-#EXTINF:-1 group-title="NASIONAL",ANTV (Link 3)
-
-#EXTINF:-1 group-title="NASIONAL",MNC
-https://link.zozotv.xyz:443/Freemium4/unlimited99/49
-#EXTINF:-1 group-title="NASIONAL",MNC (Link 2)
-http://gpc.my.id/vidio/mnc.m3u8
-#EXTINF:-1 group-title="NASIONAL",MNC (Link 3)
-https://visionplus-stream.visionplus.id/live/eds/MNCTV-Merdeka/sa_hls/MNCTV-Merdeka.m3u8
-#EXTINF:-1 group-title="NASIONAL",GTV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/48
-#EXTINF:-1 group-title="NASIONAL",GTV (Link 2)
-https://visionplus-stream.visionplus.id/live/eds/GTV-Perjuangan/sa_hls/GTV-Perjuangan.m3u8
-#EXTINF:-1 group-title="NASIONAL",NET TV
-http://210.210.155.35/qwr9ew/s/s08/01.m3u8
-#EXTINF:-1 group-title="NASIONAL",NET TV (Link 2)
-https://link.zozotv.xyz:443/Freemium4/unlimited99/50
-#EXTINF:-1 group-title="NASIONAL",RCTI
-https://link.zozotv.xyz:443/Freemium4/unlimited99/47
-#EXTINF:-1 group-title="NASIONAL",RCTI (Link2)
-https://visionplus-stream.visionplus.id/live/eds/RCTI-Indonesia/sa_hls/RCTI-Indonesia.m3u8
-#EXTINF:-1 group-title="NASIONAL", RCTI (Link3)
-
-#EXTINF:-1 group-title="NASIONAL",RTV
-http://210.210.155.35:80/qwr9ew/s/s12/01.m3u8
-#EXTINF:-1 group-title="NASIONAL",RTV (Link 2)
-http://dituduhmaling.xyz/US33T4/rtv.m3u8
-#EXTINF:-1 group-title="NASIONAL",SCTV
-http://nonton.wap.sh/id/009.m3u8
-#EXTINF:-1 group-title="NASIONAL",SCTV (Link 2)
-https://link.zozotv.xyz:443/Freemium4/unlimited99/46
-#EXTINF:-1 group-title="NASIONAL",TransTV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/43
-#EXTINF:-1 group-title="NASIONAL",TransTV (Link2)
-http://dituduhmaling.xyz/US33T4/transtv.m3u8
-#EXTINF:-1 group-title="NASIONAL",TransTV (Link2)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NASIONAL",Trans7
-http://210.210.155.35/session/0062e3ca-c615-11e9-b6d9-c81f66f89318/qwr9ew/s/s101/01.m3u8
-#EXTINF:-1 group-title="NASIONAL",Trans7 (Link 2)
-https://video.detik.com/transtv/smil:transtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="NASIONAL",Trans7 (Link 3)
-http://topwin-tv.my.id/2/master.m3u8?id=trans7
-#EXTINF:-1 group-title="NASIONAL",INDOSIAR
-https://co-vision.xyz/DEVANDRA/master.m3u8?id=indosiar
-#EXTINF:-1 group-title="NASIONAL",INDOSIAR (Link2)
-https://link.zozotv.xyz:443/Freemium4/unlimited99/45
-#EXTINF:-1 group-title="NASIONAL",ASTRO OLIMPIC
-https://link.zozotv.xyz:443/Freemium4/unlimited99/20
-#EXTINF:-1 group-title="NASIONAL",Zee Bioskop
-https://link.zozotv.xyz:443/Freemium4/unlimited99/53
-#EXTINF:-1 group-title="NASIONAL",Zee TV
-https://link.zozotv.xyz:443/Freemium4/unlimited99/54
-#EXTINF:-1 group-title="NASIONAL",TVRI
-http://210.210.155.35:80/session/8468fbd6-2ed9-11eb-81ff-b82a72d63267/qwr9ew/s/s11/01.m3u8
-#EXTINF:-1 group-title="NASIONAL",TVRI (Link 2)
-http://wpc.d1627.nucdn.net/80D1627/o-tvri/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="NASIONAL",TVRI DKI
-http://118.97.50.107/Content/HLS/Live/Channel(TVRIDKI)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="BERITA",TVONE
-http://210.210.155.35:80/qwr9ew/s/s105/01.m3u8
-#EXTINF:-1 group-title="BERITA",TVONE (link2)
-http://cdn4.mbahnunungonline.net/m3u8/0976f879a0c4548.m3u8
-#EXTINF:-1 group-title="BERITA",Kompas
-http://210.210.155.35/session/3fa143e8-d4fe-11eb-9426-84d590ecc01f/qwr9ew/s/s104/02.m3u8
-#EXTINF:-1 group-title="BERITA",Kompas (Link2)
-
-#EXTINF:-1 group-title="BERITA",MetroTV
-http://edge.metrotvnews.com:1935/live-edge/smil:metro.smil/chunklist_w1804946251_b1492000_sleng.m3u8
-#EXTINF:-1 group-title="BERITA",MetroTV (Link 2)
-http://dituduhmaling.xyz/US33T4/metrotv.m3u8
-#EXTINF:-1 group-title="BERITA",CNN Indonesia
-http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
-#EXTINF:-1 group-title="BERITA",CNN Indonesia (Link2)
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2136674526_b384000_sleng.m3u8
-#EXTINF:-1 group-title="BERITA",CBNC Indonesia
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
-#EXTINF:-1 group-title="BERITA",MNC NOW
-https://liveanevia.mncnow.id/live/eds/IDX/sa_hls/IDX-avc1_499968=8-mp4a_66000_eng=2.m3u8
-#EXTINF:-1 group-title="BERITA",BERITA_SATU
-https://b1world.beritasatumedia.com/Beritasatu/B1World_1280x720.m3u8?aux=eroz_brebes.m3u8
-#EXTINF:-1 group-title="BERITA",BERITA_SATU (Link2)
-http://dituduhmaling.xyz/US33T4/beritasatu.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO
-https://gratismkctv.net/film/hbo.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO (Link 2)
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO (Link 3)
-http://185.180.221.194:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO (Link 4)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBONew.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Signature
-http://185.180.221.194:8278/streams/d/Hbosignature/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Signature (Link 2)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOSIGNew.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO Signature (Link 2)
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/2.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO FAMILY
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO FAMILY (Link 2)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOFAMNew.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO HITS
-http://185.180.221.194:8278/streams/d/Hbohits/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",HBO HITS (Link 2)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/HBOHITSNew.m3u8
-#EXTINF:-1 group-title="PREMIUM",RED
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/1.m3u8
-#EXTINF:-1 group-title="PREMIUM",Thrill
-http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Thrill (Link 2)
-http://210.210.155.35/session/53cb7f1e-c446-11eb-845d-a3e4a63de879/qwr9ew/s/s34/02.m3u8
-#EXTINF:-1 group-title="PREMIUM",TLC
-http://185.180.221.194:8278/streams/d/Tlc/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",AxN
-http://185.180.221.194:8278/streams/d/Axn/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Movie
-http://185.180.221.194:8278/streams/d/Foxmovie/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox life
-http://185.180.221.194:8278/streams/d/Foxlife/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Family
-http://185.180.221.194:8278/streams/d/Foxfamily/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Family
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Fox Crime
-http://185.180.221.194:8278/streams/d/Foxcrime/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Cinemax
-http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Cinemax (link 2)
-https://raw.githubusercontent.com/Semangat-Pagi/TEST/master/CINEMAXNew.m3u8
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies
-http://185.180.221.194:8278/streams/d/Celestial/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",Celestial Movies (Link 2)
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6760
-#EXTINF:-1group-title="PREMIUM",Celestial CCM
-
-#EXTINF:-1group-title="PREMIUM",Celestial CCM (Link 2)
-http://185.180.221.194:8278/streams/d/Celestial2/playlist.m3u8
-#EXTINF:-1 group-title="PREMIUM",KiX
-
-#EXTINF:-1 group-title="PREMIUM", SCM Legend
-
-#EXTINF:-1 group-title="PREMIUM",Chinese Star Movies
-
-#EXTINF:-1 group-title="PREMIUM",CRIME INVESTIGATION
-
-
-#EXTINF:-1 group-title="CH KOREA",K+ INDO
-http://45.126.83.51:80/session/b4b90d8c-1971-11e9-93aa-84c89f2f5f8f/uq2663/h/h08/01.m3u8
-#EXTINF:-1 group-title="CH KOREA",K+ INDO (Link 2)
-
-#EXTINF:-1 group-title="CH KOREA",TVN INDO
-http://50.7.161.82:8278/streams/d/TVN/playlist.m3u8
-#EXTINF:-1 group-title="CH KOREA",TVN Movies INDO
-
-#EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090001.png" group-title="CH KOREA",Arirang,Arirang HD
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/5ZBxPbK.jpg" group-title="CH KOREA",Arirang HD
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="CH KOREA",BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/i7uUG2m.png" group-title="CH KOREA",BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="CH KOREA",CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/hasbahca.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/Iy0yBaM.jpg" group-title="CH KOREA",CBS
-http://cbs-live.gscdn.com/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://m3u-editor.com/storage/channel-logos/07cd9d90-3cc5-11ea-9aa8-0b5bd3ba261d/92706/14090022.png" group-title="CH KOREA",CBS
-http://cbs-live.gscdn.com:1935/cbs-live/cbs-live.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/UvRoc22.png" group-title="CH KOREA",Edaily TV
-http://edaily.flive.skcdn.com:1935/high/livestream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/QUxuHA1.png" group-title="CH KOREA",GCN
-http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="CH KOREA",Gugbang TV
-http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/KBS_1_logo.svg/langfr-220px-KBS_1_logo.svg.png" group-title="CH KOREA",KBS 1
-http://51.81.66.195:1935/krtv/kbs1_540/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/b7uMB9T.png" group-title="CH KOREA",KBS LiveCam DokDo
-http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/QMDDHd1.gif" group-title="CH KOREA",MTN
-http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/loWf3B5.jpg" group-title="CH KOREA",NBS Korea Agricultural Broadcasting
-https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="CH KOREA",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/JNmRU3V.png" group-title="CH KOREA",SBS International
-https://streaming-a-802.cdn.nextologies.com/SBS_Live_HD/live/SBS_Live_HD_1500k/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="CH KOREA",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/lJdOstp.png" group-title="CH KOREA",SBS Plus
-https://streaming-a-802.cdn.nextologies.com/SBS_Plus/live/SBS_Plus_1500k/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/S1YWrNd.jpg" group-title="CH KOREA",SBS Star
-https://streaming-a-802.cdn.nextologies.com/SBS_18/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/xLL7Sxm.png" group-title="CH KOREA",TVWorkNet
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/fdFQonN.jpg" group-title="CH KOREA",YTN DMB
-http://slive.ytn.co.kr:1935/dmb/ydlive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="CH KOREA",YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/chunklist_w2065795695.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="KR" tvg-logo="https://i.imgur.com/FIzME5L.jpg" group-title="CH KOREA",YTN SCIENCE
-http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8?checkedby:iptvcat.com
-
-#EXTINF:-1 group-title="CHANNEL LUAR ",ANIMAX
-http://210.210.155.35/session/dd59f140-d277-11eb-acee-b1789cb5220f/dr9445/h/h144/01.m3u8?dl=1
-#EXTINF:-1 group-title="CHANNEL LUAR ",ANIMAX (Link2)
-http://185.180.221.194:8278/streams/d/Animax/playlist.m3u8
-#EXTINF:-1 group-title="CHANNEL LUAR ",CartoonNetwork
-https://usee.mbed.cc/cartoonnetwork.m3u8
-#EXTINF:-1 group-title="CHANNEL LUAR ",Waku-Waku Japan
-http://topwin-tv.my.id/2/master.m3u8?id=wakuwaku
-#EXTINF:-1 group-title=" CHANNEL LUAR ",AndFlixHD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title=" CHANNEL LUAR ",AndPriveHD
-https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title=" CHANNEL LUAR ",Movie
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b1200000.m3u8
-#EXTINF:-1 group-title="Knowledge",BBC EARTH
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62289
-#EXTINF:-1 group-title="Knowledge",Nat Geo
-http://topwin-tv.my.id/2/master.m3u8?id=natgeo
-#EXTINF:-1 group-title="Knowledge",Nat Geo (Link 2)
-http://185.180.221.194:8278/streams/d/Natgeo/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Nat Geo People
-http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Nat Geo People (link2)
-http://topwin-tv.my.id/2/master.m3u8?id=natgeopeople
-#EXTINF:-1 group-title="Knowledge",Nat Geo WILD
-http://topwin-tv.my.id/2/master.m3u8?id=natgeowild
-#EXTINF:-1 group-title="Knowledge",Nat Geo WILD (Link 2)
-https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
-#EXTINF:-1 group-title="Knowledge",HGTV
-http://50.7.161.82:8278/streams/d/HGTV/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",(HGTV Link2)
-http://portal.geniptv.com:8080/greenpoison8/GZprWONABH/62242
-#EXTINF:-1 group-title="Knowledge",Discovery Channel
-http://topwin-tv.my.id/2/master.m3u8?id=disco
-#EXTINF:-1 group-title="Knowledge",History Channel
-https://usee.mbed.cc/history.m3u8
-#EXTINF:-1 group-title="Knowledge",History Channel (link 2)
-http://topwin-tv.my.id/2/master.m3u8?id=history
-#EXTINF:-1 group-title="Knowledge",Animal Planet
-http://50.7.161.82:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Animal Planet 2
-http://185.180.221.194:8278/streams/d/AnimalPlanet/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Animal Planet 3
-http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",NASA TV
-https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_500.m3u8
-#EXTINF:-1 group-title="Knowledge",Discovery ID
-http://185.180.221.194:8278/streams/d/Discoveryhd/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",Discovery Asia
-
-#EXTINF:-1 group-title="Knowledge",CGTN Documentary
-http://210.210.155.35/session/d5d31794-d047-11eb-a36f-b9d9ba00d9b9/qwr9ew/s/s20/01.m3u8
-#EXTINF:-1 group-title="Knowledge",CGTN Documentary (Link 2)
-http://dituduhmaling.xyz/US33T4/cgtndocumentary.m3u8
-#EXTINF:-1 group-title="Knowledge",LifeTime
-http://185.180.221.194:8278/streams/d/Lifetime/playlist.m3u8
-#EXTINF:-1 group-title="Knowledge",DW English
-http://ruangwaktu.xyz/kampret-loc/local/ruangtv-5075.m3u8
-
-#EXTINF:-1 group-title="SPORT",eGG
-http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="SPORT",Fox Sport 1
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6793
-#EXTINF:-1 group-title="SPORT",Fox Sport 1 (link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6793
-#EXTINF:-1 group-title="SPORT",Fox Sport 1 (link 3)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport1
-#EXTINF:-1 group-title="SPORT",Fox Sport 2
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6791
-#EXTINF:-1 group-title="SPORT",Fox Sport 2 (link 2)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport2
-#EXTINF:-1 group-title="SPORT",Fox Sport 3
-http://iptv.tvmalaysia.cc:80/penang172/penang172/6792
-#EXTINF:-1 group-title="SPORT",Fox Sport 3 (Link 2)
-http://topwin-tv.my.id/2/master.m3u8?id=foxsport3
-#EXTINF:-1 group-title="SPORT",Fox Sport 3 (Link 3)
-http://iptv.tvmalaysia.cc:80/624850/624850/6792
-#EXTINF:-1 group-title="SPORT",ITV Sports
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
-#EXTINF:-1 group-title="SPORT",ChampionTV
-http://topwin-tv.my.id/2/master.m3u8?id=champion1
-#EXTINF:-1 group-title="SPORT",ChampionTV 2
-http://topwin-tv.my.id/2/master.m3u8?id=champion2
-#EXTINF:-1 group-title="SPORT",ChampionTV 3
-
-#EXTINF:-1 group-title="SPORT",BTSPORT 1
-
-#EXTINF:-1 group-title="SPORT",BTSPORT 2
-
-#EXTINF:-1 group-title="SPORT",BTSPORT 2 (link2)
-http://stream.tvtap.live:8081/live/bt220.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3
-http://stream.tvtap.live:8081/live/bt33.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",BTSPORT 3 (Link2)
-http://31.220.41.88:8081/live/bt33.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",RTM Sport
-http://185.180.221.194:8278/streams/d/Rtmsport/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",RAISPORT+
-http://stream.tvtap.live:8081/live/it-raisportplus.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",LALIGA
-http://stream.tvtap.live:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",DAZN 1
-http://stream.tvtap.live:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",CANAL+
-http://stream.tvtap.live:8081/live/fr-canaplus-sport.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN+
-http://134.19.182.131:8080/edg2_2.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN US
-http://stream.tvtap.live:8081/live/espnusahd.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",ESPN 2
-https://qlobbidev.s.llnwi.net/bpk-tv/ESPN2/hls/index.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 1
-http://31.220.41.88:8081/live/arena1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 2
-http://31.220.41.88:8081/live/arena2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 3
-http://31.220.41.88:8081/live/arena3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORT",Arena 5
-http://31.220.41.88:8081/live/arena5.stream/playlist.m3u8
-
-#EXTINF:-1 group-title="SPORT",NBA TV
-http://topwin-tv.my.id/2/master.m3u8?id=nba
-#EXTINF:-1 group-title="SPORTS", TrueSport
-https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-1-1070.png" group-title="SPORT ",True Sports 1
-http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-2-1071.png" group-title="SPORT ",True Sports 2
-http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img.sport-tv-guide.live/images/tv-station-true-sport-3-1072.png" group-title="SPORT ",True Sports 3
-http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 5
-https://www.livedoomovie.com//02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 6
-https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",True Sport 6
-https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 group-title="SPORT",DubaiSport5
-http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1600000.m3u8
-#EXTINF:-1 group-title="SPORT",FSA
-http://134.19.182.131:8080/edg12_2.m3u8
-#EXTINF:-1 group-title="SPORTS", SK 2HD
-http://31.220.41.88:8081/live/klub2.stream/chunks.m3u8
-#EXTINF:-1 group-title="SPORT",TVC Sport
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="ASTRO SPORT", ASTRO Arena
-http://iptv.tvmalaysia.cc:80/624850/624850/6707
-#EXTINF:-1 group-title="ASTRO SPORT",ASTRO ARENA (link 2)
-http://50.7.161.82:8278/streams/d/arena_pye/playlist.m3u8
-#EXTINF:-1 group-title="ASTRO SPORT",ASTRO ARENA (link 3)
-
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 1
-http://iptv.tvmalaysia.cc:80/624850/624850/6708
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 1 (Link 2)
-http://50.7.161.82:8278/streams/d/assp1_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 1 (Link 3)
-
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 2
-http://iptv.tvmalaysia.cc:80/624850/624850/6710
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 2 (Link 2)
-http://50.7.161.82:8278/streams/d/assp2_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 2 (Link 3)
-
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 3
-http://50.7.161.82:8278/streams/d/assp3_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 3 (Link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6711
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 4
-http://50.7.161.82:8278/streams/d/assp4_pye/playlist.m3u8
-#EXTINF:-1 group-title=" ASTRO SPORT ",ASTRO SUPER SPORT 4 (Link 2)
-http://iptv.tvmalaysia.cc:80/624850/624850/6712
-
-#EXTINF:-1 group-title=" SPORTS RUSSIA ",MATCHTV
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title=" SPORTS RUSSIA ",MATCH4
-https://95-213-224-179.livesports24.online/ooomatch.m3u8
-#EXTINF:-1 group-title=" SPORTS RUSSIA ",MATCH2
-https://95-213-224-179.livesports24.online/mfootball2rus.m3u8
-#EXTINF:-1 group-title=" SPORTS RUSSIA ",MATCHTV
-https://95-213-224-169.livesports24.online/ooomatch.m3u8
-
-
-#EXTINF:-1 group-title="BEIN",Beinsport 1 France
-http://31.220.41.90:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport 1 INDO
-
-#EXTINF:-1 group-title="BEIN",Beinsport 1 Malay
-http://iptv.tvmalaysia.cc:80/624850/624850/6597
-#EXTINF:-1 group-title="BEIN",Beinsport 2 INDO
-http://topwin-tv.my.id/2/master.m3u8?id=bein2
-#EXTINF:-1 group-title="BEIN",Beinsport 3
-http://31.220.41.90:8081/live/fr-beinsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",Beinsport 1 Xtra (English)
-https://siloh-ns1.plutotv.net/lilo/production/bein/master_1.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sport English 2
-http://31.220.41.88:8081/live/bein12.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 1
-http://31.220.41.88:8081/live/bein1.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 1
-http://31.220.41.88:8081/live/bein9.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 2
-http://31.220.41.88:8081/live/bein2.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 3
-http://31.220.41.88:8081/live/bein3.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 4
-http://31.220.41.88:8081/live/bein4.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 4 SD
-http://31.220.41.88:8081/live/bein7.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 5
-http://31.220.41.88:8081/live/bein5.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 5 SD
-http://31.220.41.88:8081/live/bein8.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports 6
-http://31.220.41.88:8081/live/bein6.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 4
-http://31.220.41.88:8081/live/fr-beinmax4.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 5
-http://31.220.41.88:8081/live/fr-beinmax5.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 6
-http://31.220.41.88:8081/live/fr-beinmax6.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports MAX 7
-http://31.220.41.88:8081/live/fr-beinmax7.stream/playlist.m3u8
-#EXTINF:-1 group-title="BEIN",beIN Sports ESP
-http://209.126.105.142:25461/live/a5c8d3faaf3d4bf3bf1a190ccedb8181/9150dcffcef9413f87a8dd812f08cc8f/13.m3u8
-#EXTINF:-1,Boomerang
-http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-http://31.220.41.88:8081/live/us-cartoon.stream/playlist.m3u8
-#EXTINF:-1,CBS
-http://31.220.41.88:8081/live/us-cbs.stream/playlist.m3u8
-
-#EXTINF:-1,Cinemax Action
-http://31.220.41.88:8081/live/us-cinemaxaction.stream/playlist.m3u8
-#EXTINF:-1,Comedy Central
-http://31.220.41.88:8081/live/us-comedy.stream/playlist.m3u8
-#EXTINF:-1,DAVE
-http://31.220.41.88:8081/live/dave.stream/playlist.m3u8
-#EXTINF:-1,DAZN F1
-http://31.220.41.88:8081/live/es-moviestarf1.stream/playlist.m3u8
-#EXTINF:-1,DE SAT HD
-http://31.220.41.88:8081/live/de-3sat.stream/playlist.m3u8
-#EXTINF:-1,DE Sky Sport 1
-http://31.220.41.88:8081/live/de-skysport1.stream/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
-#EXTINF:-1,Disney
-http://31.220.41.88:8081/live/us-disney.stream/playlist.m3u8
-#EXTINF:-1,Disney XD
-http://31.220.41.88:8081/live/disneyxd.stream/playlist.m3u8
-#EXTINF:-1,ES Movistar Deportes
-http://31.220.41.88:8081/live/es-movistar-deportes.stream/playlist.m3u8
-#EXTINF:-1,ES movistar deportes2
-http://31.220.41.88:8081/live/es-movistar-deportes2.stream/playlist.m3u8
-#EXTINF:-1,ES movistar laliga
-http://31.220.41.88:8081/live/es-movistarlaliga.stream/playlist.m3u8
-#EXTINF:-1,ES Movistar LaLiga
-http://31.220.41.88:8081/live/bein-laliga.stream/playlist.m3u8
-#EXTINF:-1,ESLaLigaTV Bar
-http://31.220.41.88:8081/live/es-laligatvbar.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 2 HD
-http://31.220.41.88:8081/live/nl-foxsports2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 3 HD
-http://31.220.41.88:8081/live/nl-foxsports3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 4 HD
-http://31.220.41.88:8081/live/nl-foxsports4.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 5 HD
-http://31.220.41.88:8081/live/nl-foxsports5.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN 6 HD
-http://31.220.41.88:8081/live/nl-foxsports6.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS ESPN",ESPN HD
-http://31.220.41.88:8081/live/nl-foxsports1.stream/playlist.m3u8
-#EXTIN:-1 group-title="SPORTS",Eurosport 2
-http://31.220.41.88:8081/live/skysports-premier-league.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FOX
-http://31.220.41.88:8081/live/us-fox.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sport 3
-http://31.220.41.88:8081/live/fr-beinsport3.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sports 1
-http://31.220.41.88:8081/live/fr-beinsport1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",beIN Sports 2
-http://31.220.41.88:8081/live/fr-beinsport2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",RMC Sport 1
-http://31.220.41.88:8081/live/fr-sfr1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",RMC Sport 2
-http://31.220.41.88:8081/live/fr-sfr2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FreeForm
-http://31.220.41.88:8081/live/us-freeform.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FX
-http://31.220.41.88:8081/live/us-fx.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",FXX
-http://31.220.41.88:8081/live/us-fxx.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",hallmark
-http://31.220.41.88:8081/live/us-hallmark.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",HBO
-http://31.220.41.88:8081/live/us-hbo.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",HBO Family
-http://31.220.41.88:8081/live/us-hbofamily.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",HBO Zone
-http://31.220.41.88:8081/live/us-hbozone.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",DAZN 2
-http://31.220.41.88:8081/live/it-dazn1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Calcio
-http://31.220.41.88:8081/live/it-skysportserieA.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Football
-http://31.220.41.88:8081/live/it-skysport-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Lifetime
-http://31.220.41.88:8081/live/us-lifetime.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Lifetime Movie Network
-http://31.220.41.88:8081/live/us-lmn.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Nick Jr
-http://31.220.41.88:8081/live/uk-nickjr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Nickelodeon
-http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Paramount (Spike)
-http://31.220.41.88:8081/live/us-paramount.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Premier Sports 1
-http://31.220.41.88:8081/live/prem.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",SHOWTIME
-http://31.220.41.88:8081/live/us-showtime.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",SHOWTIME 2
-http://31.220.41.88:8081/live/us-showtime2.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Arena
-http://31.220.41.88:8081/live/skysports-arena.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Cinema Drama
-http://31.220.41.88:8081/live/mdrama.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky F1
-http://31.220.41.88:8081/live/skysportsf1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Main Event
-http://31.220.41.88:8081/live/skysports-maineventz.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Mix
-http://31.220.41.88:8081/live/skysportsmix.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Action & Adventure
-http://31.220.41.88:8081/live/maction.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Comedy
-http://31.220.41.88:8081/live/mcomedy.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Crime & Thriller
-http://31.220.41.88:8081/live/mcrime.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Disney
-http://31.220.41.88:8081/live/mdisney.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Family
-http://31.220.41.88:8081/live/mfamily.stream/playlist.m3u8
-#EXTINF:-1 group-title="Premium",Sky Movies Premiere
-http://31.220.41.88:8081/live/mpremiere.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",Sky Sport Bundesliga 1
-http://31.220.41.88:8081/live/de-skybundes1.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",skysports footbal
-http://31.220.41.88:8081/live/skysports-football.stream/playlist.m3u8
-#EXTINF:-1 group-title="SPORTS",SPORT TV 1 HD
-http://31.220.41.88:8081/live/pt-sporttv1.stream/playlist.m3u8
+#EXTINF:-1,Sport |:WWE Network (USA)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/16624.ts
+#EXTINF:-1,Sport |  MLB Network (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21080.ts
+#EXTINF:-1,Sport | NBC Sport FHD (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21329.ts
+#EXTINF:-1,FOX Sports 2 (USA)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18609.ts
+#EXTINF:-1,Sport | TSN 1 (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18592.ts
+#EXTINF:-1,Sport | TSN 2 (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18593.ts
+#EXTINF:-1,TSN 3 (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18594.ts
+#EXTINF:-1,Sport | TSN 4 (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18595.ts
+#EXTINF:-1,Sport | TSN 5 (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18596.ts
+#EXTINF:-1,Sport |  NFL Now HD (USA)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/19639.ts
+#EXTINF:-1,Sport |  Viasat Sports (USA)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/20218.ts
+#EXTINF:-1,Sport | espn HD  (US)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/19638.ts
+#EXTINF:-1,(UK) Alibi FHD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15604.ts
+#EXTINF:-1,(UK)  Animal Planet (SD/HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15603.ts
+#EXTINF:-1,(UK) Al Jazeera News 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15430.ts
+#EXTINF:-1,BBC One London (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/23510.ts
+#EXTINF:-1,(UK) BBC One Scotland (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15600.ts
+#EXTINF:-1,BBC Two (HD) -UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15599.ts
+#EXTINF:-1,(UK) BBC Three HD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15598.ts
+#EXTINF:-1,BBC Four (HD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15597.ts
+#EXTINF:-1,(UK) BBC Parliament
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15423.ts
+#EXTINF:-1,(UK) BBC World News
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15596.ts
+#EXTINF:-1,(UK) BBC Red Button
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15422.ts
+#EXTINF:-1,(UK) Baby TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15601.ts
+#EXTINF:-1,(UK) Boomerang >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15592.ts
+#EXTINF:-1,(UK) Box Office Movies 1 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/16472.ts
+#EXTINF:-1,BT Sport Europe UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21944.ts
+#EXTINF:-1,BT Sports 3 UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21951.ts
+#EXTINF:-1,BT Sports 3 FHD UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21952.ts
+#EXTINF:-1,UK | Channel Aka
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15416.ts
+#EXTINF:-1,(UK) Capital Radio Tv
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22483.ts
+#EXTINF:-1,(UK) Channel 4+1 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22475.ts
+#EXTINF:-1,(UK) Channel 5 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22476.ts
+#EXTINF:-1,Comedy Central (SD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15570.ts
+#EXTINF:-1,(UK) Comedy Central Extra +1 (SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22477.ts
+#EXTINF:-1,(UK) E!
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15414.ts
+#EXTINF:-1,(UK) E4
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15554.ts
+#EXTINF:-1,UK: E4+1 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22478.ts
+#EXTINF:-1,UK : France 24 English
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15411.ts
+#EXTINF:-1,(UK) 4Seven
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15607.ts
+#EXTINF:-1,(UK) Good Food
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15539.ts
+#EXTINF:-1,(UK) History Channel
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15537.ts
+#EXTINF:-1,(UK ) History 2 HD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15410.ts
+#EXTINF:-1,(UK) Investigation Discovery HD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15406.ts
+#EXTINF:-1,(UK) More 4
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15522.ts
+#EXTINF:-1,(UK) MTV Classic_
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15376.ts
+#EXTINF:-1,MTV Rocks-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15399.ts
+#EXTINF:-1,(UK) National Geographic (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15515.ts
+#EXTINF:-1,(UK) Nicktoons
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15511.ts
+#EXTINF:-1,(UK) NHK World News
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15397.ts
+#EXTINF:-1,(UK) BT Sport 1 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21956.ts
+#EXTINF:-1,BT Sport ESPN UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21942.ts
+#EXTINF:-1,BT Sport ESPN HD UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21943.ts
+#EXTINF:-1,BT Sport 2 HD UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21954.ts
+#EXTINF:-1,Sky Atlantic >HD<-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15501.ts
+#EXTINF:-1,Sky Sports The Open FHD (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21961.ts
+#EXTINF:-1,SkySp Pr.League HD-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21962.ts
+#EXTINF:-1,Sky Sports Premier League FHD (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21964.ts
+#EXTINF:-1,(UK) Sky Sports News 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21983.ts
+#EXTINF:-1,SkySp Cricket >HD<-UK,
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21976.ts
+#EXTINF:-1,(UK) Sky Sports Main Event 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21967.ts
+#EXTINF:-1,Sky Sports Golf  FHD (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21969.ts
+#EXTINF:-1,(UK) Sky Sports Football >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21972.ts
+#EXTINF:-1,Sky Sports F1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21987.ts
+#EXTINF:-1,Sky Sports Box Office (Live During Events Only) UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21959.ts
+#EXTINF:-1,SkySp Arena SD-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21978.ts
+#EXTINF:-1,(UK) Sky Sports Action 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21980.ts
+#EXTINF:-1,Sky Movies Sci-fi & Horror-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13283.ts
+#EXTINF:-1,(UK) Sky Movies Drama & Romance
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13289.ts
+#EXTINF:-1,(UK) Sky Movies Crime &Thriller
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13291.ts
+#EXTINF:-1,(UK) Sky Movies Comedy
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13292.ts
+#EXTINF:-1,(UK) Sky Movies Action & Adventure
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13294.ts
+#EXTINF:-1,UK_Sky  Boxoffice 3D >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21101.ts
+#EXTINF:-1,UK_ Sky  Boxoffice 1 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21102.ts
+#EXTINF:-1,UK_Sky Boxoffice 2
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21096.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 3
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21098.ts
+#EXTINF:-1,SyFy 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15471.ts
+#EXTINF:-1,(UK) SONY CHANNEL
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15387.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 4
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21095.ts
+#EXTINF:-1,UK : SONY MOVIES
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15386.ts
+#EXTINF:-1,(UK) Sony Crime Channel2.
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15380.ts
+#EXTINF:-1,Nat Geo Wild-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15409.ts
+#EXTINF:-1,(UK) CBS Reality (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15575.ts
+#EXTINF:-1,(UK) Yesterday
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15457.ts
+#EXTINF:-1,(UK) Watch
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15458.ts
+#EXTINF:-1,(UK) Virgin Radio
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15375.ts
+#EXTINF:-1,(UK) VH1 Classic
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15377.ts
+#EXTINF:-1,(UK) VH1 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15460.ts
+#EXTINF:-1,UK | UTV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15378.ts
+#EXTINF:-1,Universal Channel-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15461.ts
+#EXTINF:-1,UK | TruTV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15379.ts
+#EXTINF:-1,(UK) True Entertainment
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15466.ts
+#EXTINF:-1,(UK) True Movies +1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15381.ts
+#EXTINF:-1,(UK) Travel Channel >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15467.ts
+#EXTINF:-1,(UK) TLC
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15468.ts
+#EXTINF:-1,(UK) STV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15385.ts
+#EXTINF:-1,(UK) Spike
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15472.ts
+#EXTINF:-1,Sky One-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15488.ts
+#EXTINF:-1,SKY LIVING (HD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15449.ts
+#EXTINF:-1,(UK) Sky Arts 1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15502.ts
+#EXTINF:-1,(UK) Sky 2
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15473.ts
+#EXTINF:-1,(UK) Scuzz
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15389.ts
+#EXTINF:-1,UK | S4C
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15390.ts
+#EXTINF:-1,(UK) RT News >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15395.ts
+#EXTINF:-1,(UK) Really
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15505.ts
+#EXTINF:-1,(UK) Quest
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15508.ts
+#EXTINF:-1,UK | Pick TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15510.ts
+#EXTINF:-1,(UK) Sky Cinema Boxoffice 5
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13285.ts
+#EXTINF:-1,(UK) Lifetime
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15526.ts
+#EXTINF:-1,(UK)  ITV 4 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15530.ts
+#EXTINF:-1,(UK) ITV 3 (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15531.ts
+#EXTINF:-1,UK | Irish TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15534.ts
+#EXTINF:-1,(UK) Home + >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15536.ts
+#EXTINF:-1,(UK) Home
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15408.ts
+#EXTINF:-1,UK | H2
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15538.ts
+#EXTINF:-1,(UK) Sky Cinema Family
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13287.ts
+#EXTINF:-1,(UK) Sky Cinema Select
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13282.ts
+#EXTINF:-1,(UK) Real Lives
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15506.ts
+#EXTINF:-1,UK : TV3 Plus 1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15462.ts
+#EXTINF:-1,TV3 >HD-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15463.ts
+#EXTINF:-1,(UK) True Movies 1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15465.ts
+#EXTINF:-1,(UK) SKY News >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15489.ts
+#EXTINF:-1,(UK) RTÉ2 >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15503.ts
+#EXTINF:-1,(UKI) RTE News Now
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15393.ts
+#EXTINF:-1,(UK) Nickelodeon >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15512.ts
+#EXTINF:-1,(UK) Nick Junior
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15513.ts
+#EXTINF:-1,(UK) MTV Music
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15517.ts
+#EXTINF:-1,(UK) MTV Hits
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15518.ts
+#EXTINF:-1,MTV Classic-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15402.ts
+#EXTINF:-1,(UK) MTV  +1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15404.ts
+#EXTINF:-1,(UK) Movies 4 Men
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15519.ts
+#EXTINF:-1,(UK) Sky Cinema Premiere +1
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15520.ts
+#EXTINF:-1,(UK) Disney XD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15527.ts
+#EXTINF:-1,(UK) ITV Encore (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15528.ts
+#EXTINF:-1,(UK)  ITV Be (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15529.ts
+#EXTINF:-1,(UK) ITV 2 (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15532.ts
+#EXTINF:-1,ITV 1 (HD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15533.ts
+#EXTINF:-1,(UK) SKY Fine Living (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22481.ts
+#EXTINF:-1,Gold HD_UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15540.ts
+#EXTINF:-1,(UK) Food Network (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15545.ts
+#EXTINF:-1,(UK) Film 4
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15548.ts
+#EXTINF:-1,(UK) TCM Movies (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15383.ts
+#EXTINF:-1,Tiny Pop-(uk)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15382.ts
+#EXTINF:-1,MTV Dance-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15405.ts
+#EXTINF:-1,(UK) FOX News
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15542.ts
+#EXTINF:-1,(UK) FOX Crime
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15543.ts
+#EXTINF:-1,(UK) Five >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15547.ts
+#EXTINF:-1,(UK) Eden
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15413.ts
+#EXTINF:-1,(UK) Drama
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15555.ts
+#EXTINF:-1,(UK) Dmax
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15556.ts
+#EXTINF:-1,(UK) Disney Junior >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15559.ts
+#EXTINF:-1,UK) Discovery Turbo
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15561.ts
+#EXTINF:-1,(UK) Discovery History
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15565.ts
+#EXTINF:-1,(UK) Discovery Channel (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15566.ts
+#EXTINF:-1,Dave (SD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15567.ts
+#EXTINF:-1,(UK) Comedy Central Xtra
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15569.ts
+#EXTINF:-1,Liverpool FC (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15525.ts
+#EXTINF:-1,(UK) Channel 5 (SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15573.ts
+#EXTINF:-1,Channel 4 (SD/HD)-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15574.ts
+#EXTINF:-1,(UK) Challenge
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15418.ts
+#EXTINF:-1,(UK) Cbeebies
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15578.ts
+#EXTINF:-1,UK | CBBC
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15419.ts
+#EXTINF:-1,(UK) Cartoonito
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15579.ts
+#EXTINF:-1,(UK) Disney Channel >HD<
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15560.ts
+#EXTINF:-1,(UK) Discovery Shed (HD/SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15562.ts
+#EXTINF:-1,(UK) Discovery Science (HD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15563.ts
+#EXTINF:-1,(UK) Crime & Investigation (FHD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15568.ts
+#EXTINF:-1,CNBC Europe-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15415.ts
+#EXTINF:-1,(UK) CBS Action (SD)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15577.ts
+#EXTINF:-1,(UK) Cartoon Network
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15580.ts
+#EXTINF:-1,(UK) Motors TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15521.ts
+#EXTINF:-1,(UK) Bet
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15595.ts
+#EXTINF:-1,Box Nation HD-UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/14465.ts
+#EXTINF:-1,(UK) ROK TV
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15454.ts
+#EXTINF:-1,UK:WB MOVIES
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15594.ts
+#EXTINF:-1,(UK) PBS America
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15396.ts
+#EXTINF:-1,BT Sports 2 UK
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21953.ts
+#EXTINF:-1,(UK) LOONEY TUNES FHD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21928.ts
+#EXTINF:-1,(UK) Box Office Movies 2 
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/13284.ts
+#EXTINF:-1,(UK) Quest Red /SD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/22480.ts
+#EXTINF:-1,BBO Cinema (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/23696.ts
+#EXTINF:-1,BBC ONE (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/25915.ts
+#EXTINF:-1,PPV EVENT ITV BOXOFFICE (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21702.ts
+#EXTINF:-1,Vip:Sport| ITV Box Office (uk)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21078.ts
+#EXTINF:-1,Sport-UK: PPV 1 (Live During Events Only)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/21330.ts
+#EXTINF:-1,BT Sport 1 >HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18598.ts
+#EXTINF:-1,BT Sport 2 >HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18600.ts
+#EXTINF:-1,BT Sport 3 >HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18601.ts
+#EXTINF:-1,BT Sport ESPN  (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18602.ts
+#EXTINF:-1,Eurosport 1 >HD<(UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15550.ts
+#EXTINF:-1,Sport |   Eurosport 2 (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15549.ts
+#EXTINF:-1,(UK) HORSE & COUNTRY (SP)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15407.ts
+#EXTINF:-1,Sport | Nautical Channel (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15398.ts
+#EXTINF:-1,PREMIER SPORTS (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/7740.ts
+#EXTINF:-1,SkySp News (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/14226.ts
+#EXTINF:-1,SkySp Arena HD (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15444.ts
+#EXTINF:-1,Sky Sports Action >HD> (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15446.ts
+#EXTINF:-1,Sky Sports Cricket >HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15443.ts
+#EXTINF:-1,SkySp Football >HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15441.ts
+#EXTINF:-1,SkySP Main Event > HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15439.ts
+#EXTINF:-1,Premier League >HD> (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15437.ts
+#EXTINF:-1,Skysp MIX HD (UK).
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15438.ts
+#EXTINF:-1,SkySp Golf (UK)-HD
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/15435.ts
+#EXTINF:-1,SkySp F1 > HD< (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18608.ts
+#EXTINF:-1,Sport | Encore Sport (Los Angeles)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/16891.ts
+#EXTINF:-1,Sport | FightBox HD (UK)
+http://portal.simiptv.com:8001/live/SURYA/SURYA1/18597.ts
+
+#EXTINF:-1,USA_TSN_1
+http://www.abraiptv.tn:5475/live/walid01/walid01/1109.ts
+#EXTINF:-1,USA_TSN_2
+http://www.abraiptv.tn:5475/live/walid01/walid01/1108.ts
+#EXTINF:-1,USA_TSN_4
+http://www.abraiptv.tn:5475/live/walid01/walid01/1106.ts
+#EXTINF:-1,USA_TSN_3
+http://www.abraiptv.tn:5475/live/walid01/walid01/1107.ts
+#EXTINF:-1,USA_TSN_5
+http://www.abraiptv.tn:5475/live/walid01/walid01/1105.ts
+#EXTINF:-1,USA_ESPN-1
+http://www.abraiptv.tn:5475/live/walid01/walid01/1151.ts
+#EXTINF:-1,USA_ESPN-2
+http://www.abraiptv.tn:5475/live/walid01/walid01/1150.ts
+#EXTINF:-1,USA_NBA-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1136.ts
+#EXTINF:-1,USA _NBCSN HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1111.ts
+#EXTINF:-1,USA_FOX_SPORT_1HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1112.ts
+#EXTINF:-1,USA_FOX_SPORT_2HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1113.ts
+#EXTINF:-1,USA_FOX_SPORT_3HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1146.ts
+#EXTINF:-1,USA_AFN SPORTS-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1162.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_1
+http://www.abraiptv.tn:5475/live/walid01/walid01/1117.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT_2
+http://www.abraiptv.tn:5475/live/walid01/walid01/1116.ts
+#EXTINF:-1,USA_Astro_SUPERSPORT-3
+http://www.abraiptv.tn:5475/live/walid01/walid01/1115.ts
+#EXTINF:-1,USA-Astro_SUPERSPORT-4
+http://www.abraiptv.tn:5475/live/walid01/walid01/1114.ts
+#EXTINF:-1,USA_A&E
+http://www.abraiptv.tn:5475/live/walid01/walid01/1164.ts
+#EXTINF:-1,USA_AFN MOVIE
+http://www.abraiptv.tn:5475/live/walid01/walid01/1163.ts
+#EXTINF:-1,USA_CBS-ACTION
+http://www.abraiptv.tn:5475/live/walid01/walid01/1160.ts
+#EXTINF:-1,USA_CBS-drama
+http://www.abraiptv.tn:5475/live/walid01/walid01/1159.ts
+#EXTINF:-1,USA_CBS-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1158.ts
+#EXTINF:-1,USA_CBS-REALITY
+http://www.abraiptv.tn:5475/live/walid01/walid01/1157.ts
+#EXTINF:-1,USA_CBSN
+http://www.abraiptv.tn:5475/live/walid01/walid01/1156.ts
+#EXTINF:-1,USA_Comedy-Central-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1155.ts
+#EXTINF:-1,USA_CW-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1154.ts
+#EXTINF:-1,USA_Discovery-shocase
+http://www.abraiptv.tn:5475/live/walid01/walid01/1153.ts
+#EXTINF:-1,USA_E
+http://www.abraiptv.tn:5475/live/walid01/walid01/1152.ts
+#EXTINF:-1,USA_FIX-V
+http://www.abraiptv.tn:5475/live/walid01/walid01/1149.ts
+#EXTINF:-1,USA_Food-Network
+http://www.abraiptv.tn:5475/live/walid01/walid01/1148.ts
+#EXTINF:-1,USA_FOX-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1147.ts
+#EXTINF:-1,USA_FX-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1145.ts
+#EXTINF:-1,USA_FXX-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1144.ts
+#EXTINF:-1,USA_HBO
+http://www.abraiptv.tn:5475/live/walid01/walid01/1143.ts
+#EXTINF:-1,USA_HBO-Comedy
+http://www.abraiptv.tn:5475/live/walid01/walid01/1142.ts
+#EXTINF:-1,USA_HBO-Signature
+http://www.abraiptv.tn:5475/live/walid01/walid01/1141.ts
+#EXTINF:-1,USA_HGTV
+http://www.abraiptv.tn:5475/live/walid01/walid01/1140.ts
+#EXTINF:-1,USA_MaxEast-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1139.ts
+#EXTINF:-1,USA_MLB-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1138.ts
+#EXTINF:-1,USA_NATIONAL-GEOGRAPHIC-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1137.ts
+#EXTINF:-1,USA_Nick-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1135.ts
+#EXTINF:-1,USA_Starz-Cinema
+http://www.abraiptv.tn:5475/live/walid01/walid01/1134.ts
+#EXTINF:-1,USA_Starz-East
+http://www.abraiptv.tn:5475/live/walid01/walid01/1133.ts
+#EXTINF:-1,USA_Starz-Edge
+http://www.abraiptv.tn:5475/live/walid01/walid01/1132.ts
+#EXTINF:-1,USA_SyFy-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1131.ts
+#EXTINF:-1,USA_TNT-HD
+http://www.abraiptv.tn:5475/live/walid01/walid01/1130.ts
+#EXTINF:-1,USA_TVO-Kids
+http://www.abraiptv.tn:5475/live/walid01/walid01/1129.ts
+
+#EXTINF:-1,(M) USA: A & E
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11489.ts
+#EXTINF:-1,(M) USA: ABC NY FHD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11488.ts
+#EXTINF:-1,(M) USA: AMC
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11487.ts
+#EXTINF:-1,(M) USA: ANIMAL PLANET
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11486.ts
+#EXTINF:-1,(M) USA: ANTENNA TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11485.ts
+#EXTINF:-1,(M) USA: CARTOON NETWORK
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11484.ts
+#EXTINF:-1,(M) USA: CBS NY FHD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11483.ts
+#EXTINF:-1,(M) USA: CINEMAX ACTION MAX EAST
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11482.ts
+#EXTINF:-1,(M) USA: CINEMAX OUTER MAX
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11481.ts
+#EXTINF:-1,(M) USA: CINEMAXX MORE MAXX
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11480.ts
+#EXTINF:-1,(M) USA: CMT HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11479.ts
+#EXTINF:-1,(M) USA: COZI TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11478.ts
+#EXTINF:-1,(M) USA: DISCOVERY CHANNEL FHD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11477.ts
+#EXTINF:-1,(M) USA: DISNEY XD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11476.ts
+#EXTINF:-1,(M) USA: ESPN
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11475.ts
+#EXTINF:-1,(M) USA: ESPN U
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11474.ts
+#EXTINF:-1,(M) USA: FOX 5 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11473.ts
+#EXTINF:-1,(M) USA: HEROS & ICONS
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11472.ts
+#EXTINF:-1,(M) USA: HSN
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11471.ts
+#EXTINF:-1,(M) USA: INVESTIGATION DISCOVERY
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11470.ts
+#EXTINF:-1,(M) USA: ION TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11469.ts
+#EXTINF:-1,(M) USA: MAV TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11468.ts
+#EXTINF:-1,(M) USA: MTV 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11467.ts
+#EXTINF:-1,(M) USA: NBC 4 NY FHD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11466.ts
+#EXTINF:-1,(M) USA: NHL NETWORK
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11465.ts
+#EXTINF:-1,(M) USA: NICK JR
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11464.ts
+#EXTINF:-1,(M) USA: OWN NETWORK FHD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11463.ts
+#EXTINF:-1,(M) USA: PBS KIDS EAST
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11462.ts
+#EXTINF:-1,(M) USA: SHOWTIME EXTREME
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11461.ts
+#EXTINF:-1,(M) USA: SPORTSNET NY
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11460.ts
+#EXTINF:-1,(M) USA: TCM
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11459.ts
+#EXTINF:-1,(M) USA: TELEMUNDO
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11458.ts
+#EXTINF:-1,(M) USA: TRU TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11457.ts
+#EXTINF:-1,(M) USA: TV LAND HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11456.ts
+#EXTINF:-1,(M) USA: TVONE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11455.ts
+#EXTINF:-1,(M) USA: UNIMAS
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11454.ts
+#EXTINF:-1,(M) USA: UNIVISION
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11453.ts
+#EXTINF:-1,(M) USA: WE TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11452.ts
+#EXTINF:-1,(M) USA: WGN AMERICA
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11451.ts
+#EXTINF:-1,(M) USA: WPIX 11 NY
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11450.ts
+#EXTINF:-1,USA . BET HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11552.ts
+#EXTINF:-1,USA . Boomerang HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11551.ts
+#EXTINF:-1,USA . CMT HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11550.ts
+#EXTINF:-1,USA . Cooking Channel HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11549.ts
+#EXTINF:-1,USA . Crime & Investigation HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11548.ts
+#EXTINF:-1,USA . Disney Jr. HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11547.ts
+#EXTINF:-1,USA . Disney XD HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11546.ts
+#EXTINF:-1,USA . ESPNDeportes HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11545.ts
+#EXTINF:-1,USA . Hallmark Movies&Mysteries HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11544.ts
+#EXTINF:-1,USA . HBOComedy HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11543.ts
+#EXTINF:-1,USA . HBOFamily (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11542.ts
+#EXTINF:-1,USA . HBOSignature HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11541.ts
+#EXTINF:-1,USA . MTV HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11540.ts
+#EXTINF:-1,USA . MTVLive HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11539.ts
+#EXTINF:-1,USA . ShowtimeFamily Zone HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11538.ts
+#EXTINF:-1,USA . Sprout HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11537.ts
+#EXTINF:-1,USA . StarzKids & Family HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11536.ts
+#EXTINF:-1,USA . Sundance HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11535.ts
+#EXTINF:-1,USA : A and E HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11648.ts
+#EXTINF:-1,USA : ABC HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11647.ts
+#EXTINF:-1,USA : ABC NEWS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11646.ts
+#EXTINF:-1,USA : ABC Spark HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11645.ts
+#EXTINF:-1,USA : AETV US HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11644.ts
+#EXTINF:-1,USA : AFN PRIME ATLANTIC (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11643.ts
+#EXTINF:-1,USA : AFN PRIME PACIFIC (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11642.ts
+#EXTINF:-1,USA : AFN SPORTS (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11641.ts
+#EXTINF:-1,USA : AFN SPORTS 2 (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11640.ts
+#EXTINF:-1,USA : BBC America HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11639.ts
+#EXTINF:-1,USA : BIG TEN NETWORK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11638.ts
+#EXTINF:-1,USA : Bloomberg HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11637.ts
+#EXTINF:-1,USA : BRAVO HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11636.ts
+#EXTINF:-1,USA : BTN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11635.ts
+#EXTINF:-1,USA : C-SPAN 1 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11634.ts
+#EXTINF:-1,USA : C-SPAN 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11633.ts
+#EXTINF:-1,USA : C-SPAN 3 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11632.ts
+#EXTINF:-1,USA : CARTOON NETWORK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11631.ts
+#EXTINF:-1,USA : CBN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11630.ts
+#EXTINF:-1,USA : CBN NEWS (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11629.ts
+#EXTINF:-1,USA : CBS Sports Network HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11628.ts
+#EXTINF:-1,USA : CINEMAX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11627.ts
+#EXTINF:-1,USA : Cinemax MoreMax HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11626.ts
+#EXTINF:-1,USA : Cinemax ThrillerMax HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11625.ts
+#EXTINF:-1,USA : COMEDY CENTRAL (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11624.ts
+#EXTINF:-1,USA : DESTINATION AMERICA (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11623.ts
+#EXTINF:-1,USA : Discovery HD? (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11622.ts
+#EXTINF:-1,USA : DISCOVERY VELOCITY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11621.ts
+#EXTINF:-1,USA : Disney HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11620.ts
+#EXTINF:-1,USA : DTX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11619.ts
+#EXTINF:-1,USA : E! HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11618.ts
+#EXTINF:-1,USA : ELEVEN SPORTS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11617.ts
+#EXTINF:-1,USA : Epix (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11616.ts
+#EXTINF:-1,USA : Epix 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11615.ts
+#EXTINF:-1,USA : ESPN NEWS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11614.ts
+#EXTINF:-1,USA : FOX 43 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11613.ts
+#EXTINF:-1,USA : FOX BUSINESS NETWORK HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11612.ts
+#EXTINF:-1,USA : Fox Sports 1 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11611.ts
+#EXTINF:-1,USA : Fox Sports 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11610.ts
+#EXTINF:-1,USA: FOX SPORT 2 HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13433.ts
+#EXTINF:-1,USA : FREEFORM HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11609.ts
+#EXTINF:-1,USA : FUSION HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11608.ts
+#EXTINF:-1,USA : GOLF HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11607.ts
+#EXTINF:-1,USA : GSN HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11606.ts
+#EXTINF:-1,USA : H2 (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11605.ts
+#EXTINF:-1,USA : Hall Mark HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11604.ts
+#EXTINF:-1,USA : HBO Comedy HD East (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11603.ts
+#EXTINF:-1,USA : HBO HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11602.ts
+#EXTINF:-1,USA : HBO Zone (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11601.ts
+#EXTINF:-1,USA : HGTV HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11600.ts
+#EXTINF:-1,USA : ID HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11599.ts
+#EXTINF:-1,USA : IFC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11598.ts
+#EXTINF:-1,USA : LMN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11597.ts
+#EXTINF:-1,USA : MLB NETWORK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11596.ts
+#EXTINF:-1,USA : MoreMax HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11595.ts
+#EXTINF:-1,USA : Nat Geo hd (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11594.ts
+#EXTINF:-1,USA : NBA TV HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11593.ts
+#EXTINF:-1,USA : NFL NETWORK HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11592.ts
+#EXTINF:-1,USA : NFL NOW HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11591.ts
+#EXTINF:-1,USA : NFL REDZONE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11590.ts
+#EXTINF:-1,USA : NHL NETWORK HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11589.ts
+#EXTINF:-1,USA : NICK HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11588.ts
+#EXTINF:-1,USA : Nick Jr. HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11587.ts
+#EXTINF:-1,USA : Nicktoons (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11586.ts
+#EXTINF:-1,USA : NO TV New Orleans (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11585.ts
+#EXTINF:-1,USA : OUTSIDE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11584.ts
+#EXTINF:-1,USA : OXYGEN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11583.ts
+#EXTINF:-1,USA : PAC-12 (ARIZONA) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11582.ts
+#EXTINF:-1,USA : PAC-12 (BAY AREA) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11581.ts
+#EXTINF:-1,USA : PAC-12 (Los Angeles) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11580.ts
+#EXTINF:-1,USA : PAC-12 (MOUNTAIN) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11579.ts
+#EXTINF:-1,USA : PAC-12 (NATIONAL) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11578.ts
+#EXTINF:-1,USA : PAC-12 (OREGON) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11577.ts
+#EXTINF:-1,USA : PAC-12 (WASHINGTON) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11576.ts
+#EXTINF:-1,USA : PBS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11575.ts
+#EXTINF:-1,USA : Reelz HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11574.ts
+#EXTINF:-1,USA : SEC NETWORK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11573.ts
+#EXTINF:-1,USA : SEC Network HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11572.ts
+#EXTINF:-1,USA : SHOWTIME HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11571.ts
+#EXTINF:-1,USA : Slice HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11570.ts
+#EXTINF:-1,USA : SN CENTRAL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11569.ts
+#EXTINF:-1,USA : SPIKE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11568.ts
+#EXTINF:-1,USA : Starz Edge (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11567.ts
+#EXTINF:-1,USA : Starz kids family (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11566.ts
+#EXTINF:-1,USA : SYFY HD? (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11565.ts
+#EXTINF:-1,USA : TBS (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11564.ts
+#EXTINF:-1,USA : TENNIS HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11563.ts
+#EXTINF:-1,USA : THE Travel Channel HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11562.ts
+#EXTINF:-1,USA : TNT HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11561.ts
+#EXTINF:-1,USA : TRAVEL CHANNEL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11560.ts
+#EXTINF:-1,USA : TRU TV HD * (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11559.ts
+#EXTINF:-1,USA : TV LAND HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11558.ts
+#EXTINF:-1,USA : UNIVERSAL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11557.ts
+#EXTINF:-1,USA : VH1 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11556.ts
+#EXTINF:-1,USA : Viceland HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11555.ts
+#EXTINF:-1,USA : WE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11554.ts
+#EXTINF:-1,USA : WGN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11553.ts
+#EXTINF:-1,USA Discovery Family HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11527.ts
+#EXTINF:-1,USA | Pac12 Arizona HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11534.ts
+#EXTINF:-1,USA | Pac12 Bay Area HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11533.ts
+#EXTINF:-1,USA | Pac12 Los Angeles HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11532.ts
+#EXTINF:-1,USA | Pac12 Mountain HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11531.ts
+#EXTINF:-1,USA | Pac12 National HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11530.ts
+#EXTINF:-1,USA | Pac12 Oregon HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11529.ts
+#EXTINF:-1,USA | Pac12 Washington HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11528.ts
+#EXTINF:-1,USA/CA: HISTORY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11491.ts
+#EXTINF:-1,USA/CA: VELOCITY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11490.ts
+#EXTINF:-1,USA: BEIN SPORTS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11526.ts
+#EXTINF:-1,USA: CINEMAX 5 (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11525.ts
+#EXTINF:-1,USA: CNBC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11524.ts
+#EXTINF:-1,USA: CW HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11523.ts
+#EXTINF:-1,USA: ESPN 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11522.ts
+#EXTINF:-1,USA: ESPN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11521.ts
+#EXTINF:-1,USA: ESPN U (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11520.ts
+#EXTINF:-1,USA: ESPN U HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11519.ts
+#EXTINF:-1,USA: FOX NEWS (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11518.ts
+#EXTINF:-1,USA: FOX SPORTS 1 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11517.ts
+#EXTINF:-1,USA: FOX SPORTS 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11516.ts
+#EXTINF:-1,USA: NBC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11515.ts
+#EXTINF:-1,USA: NBCSN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11514.ts
+#EXTINF:-1,USA: USA NETWORK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11513.ts
+#EXTINF:-1,USA: WWE NETWORK HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11512.ts
+#EXTINF:-1,USA/CA : AMC HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11511.ts
+#EXTINF:-1,USA/CA : Animal Planet HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11510.ts
+#EXTINF:-1,USA/CA : BEIN USA HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11509.ts
+#EXTINF:-1,USA/CA : CBS (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11508.ts
+#EXTINF:-1,USA/CA : CNN HD USA (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11507.ts
+#EXTINF:-1,USA/CA : Discovery HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11506.ts
+#EXTINF:-1,USA/CA : DISCOVERY SCIENCE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11505.ts
+#EXTINF:-1,USA/CA : Disney HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11504.ts
+#EXTINF:-1,USA/CA : DIY NETWORK HD** (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11503.ts
+#EXTINF:-1,USA/CA : Food Network HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11502.ts
+#EXTINF:-1,USA/CA : FOX HD** (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11501.ts
+#EXTINF:-1,USA/CA : FX HD* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11500.ts
+#EXTINF:-1,USA/CA : FXX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11499.ts
+#EXTINF:-1,USA/CA : HBO HD 1* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11498.ts
+#EXTINF:-1,USA/CA : HBO HD 2* (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11497.ts
+#EXTINF:-1,USA/CA : Lifetime HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11496.ts
+#EXTINF:-1,USA/CA : MSNBC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11495.ts
+#EXTINF:-1,USA/CA : NAT GEO WILD HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11494.ts
+#EXTINF:-1,USA/CA : OWN HD (OPRAH WINFRY NETWORK) (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11493.ts
+#EXTINF:-1,USA/CA : TLC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11492.ts
+#EXTINF:-1,CA :  OLN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11319.ts
+#EXTINF:-1,CA : A&E HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11318.ts
+#EXTINF:-1,CA : ABC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11317.ts
+#EXTINF:-1,CA : ABC SPARK (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11316.ts
+#EXTINF:-1,CA : AMC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11315.ts
+#EXTINF:-1,CA : Animal Planet HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11314.ts
+#EXTINF:-1,CA : BNN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11313.ts
+#EXTINF:-1,CA : BRAVO HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11312.ts
+#EXTINF:-1,CA : CBC CALGARY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11311.ts
+#EXTINF:-1,CA : CBC ED HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11310.ts
+#EXTINF:-1,CA : CBC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11309.ts
+#EXTINF:-1,CA : CBC Montreal HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11308.ts
+#EXTINF:-1,CA : CBC NEWS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11307.ts
+#EXTINF:-1,CA : cbc toronto
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5283.ts
+#EXTINF:-1,CA : CBC Toronto HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11306.ts
+#EXTINF:-1,CA : CBS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11305.ts
+#EXTINF:-1,CA : Charged Hd (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11304.ts
+#EXTINF:-1,CA : CHCH HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11303.ts
+#EXTINF:-1,CA : CITY Calgary HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11302.ts
+#EXTINF:-1,CA : City Toronto HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11301.ts
+#EXTINF:-1,CA : city vancouver
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5289.ts
+#EXTINF:-1,CA : City Vancouver HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11300.ts
+#EXTINF:-1,CA : CNN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11299.ts
+#EXTINF:-1,CA : COMEDY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11298.ts
+#EXTINF:-1,CA : Cottage Life HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11297.ts
+#EXTINF:-1,CA : CP 24 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11296.ts
+#EXTINF:-1,CA : cp24
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5288.ts
+#EXTINF:-1,CA : CP24 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11295.ts
+#EXTINF:-1,CA : CREATE (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11294.ts
+#EXTINF:-1,CA : CTV ATLANTIC (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11293.ts
+#EXTINF:-1,CA : CTV EAST (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11292.ts
+#EXTINF:-1,CA : CTV HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11291.ts
+#EXTINF:-1,CA : CTV Montreal HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11290.ts
+#EXTINF:-1,CA : CTV NEWS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11289.ts
+#EXTINF:-1,CA : ctv toronto
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5282.ts
+#EXTINF:-1,CA : CW HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11288.ts
+#EXTINF:-1,CA : Discovery HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11287.ts
+#EXTINF:-1,CA : Discovery Science HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11286.ts
+#EXTINF:-1,CA : Discovery Velocity HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11285.ts
+#EXTINF:-1,CA : DISNEY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11284.ts
+#EXTINF:-1,CA : DISNEY JR HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11283.ts
+#EXTINF:-1,CA : DIY NETWORK HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11282.ts
+#EXTINF:-1,CA : DTOUR HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11281.ts
+#EXTINF:-1,CA : E! HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11280.ts
+#EXTINF:-1,CA : FAMILY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11279.ts
+#EXTINF:-1,CA : Food Network HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11278.ts
+#EXTINF:-1,CA : FOX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11277.ts
+#EXTINF:-1,CA : FX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11276.ts
+#EXTINF:-1,CA : FXX HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11275.ts
+#EXTINF:-1,CA : GLOBAL EAST (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11274.ts
+#EXTINF:-1,CA : GLOBAL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11273.ts
+#EXTINF:-1,CA : GSN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11272.ts
+#EXTINF:-1,CA : Gusto HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11271.ts
+#EXTINF:-1,CA : HBO EAST (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11270.ts
+#EXTINF:-1,CA : HBO EAST HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11269.ts
+#EXTINF:-1,CA : HBO WEST (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11268.ts
+#EXTINF:-1,CA : HGTV (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11267.ts
+#EXTINF:-1,CA : HISTORY HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11266.ts
+#EXTINF:-1,CA : HLN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11265.ts
+#EXTINF:-1,CA : ID HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11264.ts
+#EXTINF:-1,CA : LCN (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11263.ts
+#EXTINF:-1,CA : Lifetime HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11262.ts
+#EXTINF:-1,CA : Love Nature HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11261.ts
+#EXTINF:-1,CA : ME TV (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11260.ts
+#EXTINF:-1,CA : MSNBC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11259.ts
+#EXTINF:-1,CA : Much HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11258.ts
+#EXTINF:-1,CA : NAT GEO HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11257.ts
+#EXTINF:-1,CA : NAT GEO WILD HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11256.ts
+#EXTINF:-1,CA : NBC FHD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11255.ts
+#EXTINF:-1,CA : omni 1
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5281.ts
+#EXTINF:-1,CA : Omni 1 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11254.ts
+#EXTINF:-1,CA : omni 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/5280.ts
+#EXTINF:-1,CA : OWN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11253.ts
+#EXTINF:-1,CA : PBS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11252.ts
+#EXTINF:-1,CA : PEACH TREE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11251.ts
+#EXTINF:-1,CA : RDS 2 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11250.ts
+#EXTINF:-1,CA : RDS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11249.ts
+#EXTINF:-1,CA : SHOWCASE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11248.ts
+#EXTINF:-1,CA : SLICE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11247.ts
+#EXTINF:-1,CA : SMITHSONIAN HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11246.ts
+#EXTINF:-1,CA : SN ONE (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11245.ts
+#EXTINF:-1,CA : SPACE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11244.ts
+#EXTINF:-1,CA : SPORTS NET 360 HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11243.ts
+#EXTINF:-1,CA : SPORTS NET EAST HD
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11242.ts
+#EXTINF:-1,CA : SPORTS NET ONE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11241.ts
+#EXTINF:-1,CA : SPORTS NET ONTARIO HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11240.ts
+#EXTINF:-1,CA : SPORTS NET PACIFIC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11239.ts
+#EXTINF:-1,CA : SPORTS NET WEST HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11238.ts
+#EXTINF:-1,CA : SPORTS NET WORLD HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11237.ts
+#EXTINF:-1,CA : SPORTSNET CENTRAL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11236.ts
+#EXTINF:-1,CA : Supercharged HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11235.ts
+#EXTINF:-1,CA : THE WEATHER CHANNEL HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11234.ts
+#EXTINF:-1,CA : THVL 2 (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11233.ts
+#EXTINF:-1,CA : TLC HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11232.ts
+#EXTINF:-1,CA : TREEHOUSE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11231.ts
+#EXTINF:-1,CA : TVA SPORTS HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11230.ts
+#EXTINF:-1,CA : VISION TV HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11229.ts
+#EXTINF:-1,CA : WORLD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11228.ts
+#EXTINF:-1,CA : WWE HD (G)
+http://topiptv.net:5890/live/najehnajeh2018/30012018/11227.ts
+#EXTINF:-1,====CANADA-Francais====
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13414.ts
+#EXTINF:-1,|CA| ADDIK TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13362.ts
+#EXTINF:-1,|CA| ADDIK_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13361.ts
+#EXTINF:-1,|CA| ARTV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13373.ts
+#EXTINF:-1,|CA| ARTV_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13372.ts
+#EXTINF:-1,|CA| ASSEMBLEE NATIONALE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13347.ts
+#EXTINF:-1,|CA| CANAL D
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13364.ts
+#EXTINF:-1,|CA| CANAL D_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13363.ts
+#EXTINF:-1,|CA| CANAL SAVOIR
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13346.ts
+#EXTINF:-1,|CA| CANAL VIE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13410.ts
+#EXTINF:-1,|CA| CANALSAVOIR
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13401.ts
+#EXTINF:-1,|CA| CASA
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13371.ts
+#EXTINF:-1,|CA| CASA_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13370.ts
+#EXTINF:-1,|CA| CINEPOP
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13384.ts
+#EXTINF:-1,|CA| CINEPOP ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13383.ts
+#EXTINF:-1,|CA| COOKING CHANNEL
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13345.ts
+#EXTINF:-1,|CA| CPAC FRENCH
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13402.ts
+#EXTINF:-1,|CA| DISNEY FRENCH
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13375.ts
+#EXTINF:-1,|CA| DISNEY FRENCH ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13374.ts
+#EXTINF:-1,|CA| EVASION
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13369.ts
+#EXTINF:-1,|CA| HISTORIA
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13368.ts
+#EXTINF:-1,|CA| HISTORIA_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13367.ts
+#EXTINF:-1,|CA| ICI MONTREAL
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13404.ts
+#EXTINF:-1,|CA| ICI VANCOUVER
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13405.ts
+#EXTINF:-1,|CA| ICI-Television
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13403.ts
+#EXTINF:-1,|CA| LCN
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13399.ts
+#EXTINF:-1,|CA| METEO
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13353.ts
+#EXTINF:-1,|CA| METEO_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13352.ts
+#EXTINF:-1,|CA| MOI & CIE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13366.ts
+#EXTINF:-1,|CA| MOI CIE_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13365.ts
+#EXTINF:-1,|CA| MUSICPLUS_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13350.ts
+#EXTINF:-1,|CA| MUSIQUE PLUS
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13351.ts
+#EXTINF:-1,|CA| PRISE 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13358.ts
+#EXTINF:-1,|CA| PRISE2_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13359.ts
+#EXTINF:-1,|CA| RDI
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13398.ts
+#EXTINF:-1,|CA| RDS
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13396.ts
+#EXTINF:-1,|CA| RDS 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13394.ts
+#EXTINF:-1,|CA| RDS INFO
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13397.ts
+#EXTINF:-1,|CA| RDS ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13395.ts
+#EXTINF:-1,|CA| SERIES
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13382.ts
+#EXTINF:-1,|CA| SERIES  ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13381.ts
+#EXTINF:-1,|CA| SPIKE TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13344.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13392.ts
+#EXTINF:-1,|CA| SUPER ECRAN 1 ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13391.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13390.ts
+#EXTINF:-1,|CA| SUPER ECRAN 2 ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13389.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13388.ts
+#EXTINF:-1,|CA| SUPER ECRAN 3 ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13387.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13385.ts
+#EXTINF:-1,|CA| SUPER ECRAN 4 ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13386.ts
+#EXTINF:-1,|CA| TELE QUEBEC
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13407.ts
+#EXTINF:-1,|CA| TELETOON
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13378.ts
+#EXTINF:-1,|CA| TELETOON FRENCH ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13377.ts
+#EXTINF:-1,|CA| TFO
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13376.ts
+#EXTINF:-1,|CA| TV5 QUEBEC
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13406.ts
+#EXTINF:-1,|CA| TVA GATINEAU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13412.ts
+#EXTINF:-1,|CA| TVA MONTREAL
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13413.ts
+#EXTINF:-1,|CA| TVA QUEBEC
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13411.ts
+#EXTINF:-1,|CA| TVA SPORTS
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13393.ts
+#EXTINF:-1,|CA| UNIS TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13360.ts
+#EXTINF:-1,|CA| VRAK TV
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13409.ts
+#EXTINF:-1,|CA| VTELE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13408.ts
+#EXTINF:-1,|CA| YOOPA
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13380.ts
+#EXTINF:-1,|CA| YOOPA ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13379.ts
+#EXTINF:-1,|CA| ZESTE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13355.ts
+#EXTINF:-1,|CA| ZESTE_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13354.ts
+#EXTINF:-1,|CA| ZTELE
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13357.ts
+#EXTINF:-1,|CA| ZTELE_ROKU
+http://topiptv.net:5890/live/najehnajeh2018/30012018/13356.ts
+
+#EXTINF:-1,[CA] PBC HD
+http://world-ipsat.com:1155/live/najib/2018/1452.ts
+#EXTINF:-1,[CA] EXPO TV
+http://world-ipsat.com:1155/live/najib/2018/2082.ts
+#EXTINF:-1,|CA| Fox News Live
+http://world-ipsat.com:1155/live/najib/2018/2079.ts
+#EXTINF:-1,[CA] TVO HD
+http://world-ipsat.com:1155/live/najib/2018/2692.ts
+#EXTINF:-1,|CA| Bet
+http://world-ipsat.com:1155/live/najib/2018/3419.ts
+#EXTINF:-1,|CA| NBC HD
+http://world-ipsat.com:1155/live/najib/2018/2691.ts
+#EXTINF:-1,[CA] PARAMOUNT NETWORK
+http://world-ipsat.com:1155/live/najib/2018/2690.ts
+#EXTINF:-1,[CA] FXX HD
+http://world-ipsat.com:1155/live/najib/2018/2677.ts
+#EXTINF:-1,|CA| Fxx hd
+http://world-ipsat.com:1155/live/najib/2018/1467.ts
+#EXTINF:-1,|CA| Golf channel
+http://world-ipsat.com:1155/live/najib/2018/2078.ts
+#EXTINF:-1,|CA|  Golf channel
+http://world-ipsat.com:1155/live/najib/2018/2679.ts
+#EXTINF:-1,[CA] NBA TV
+http://world-ipsat.com:1155/live/najib/2018/2680.ts
+#EXTINF:-1,[CA] SHOWTIME EXTRA HD
+http://world-ipsat.com:1155/live/najib/2018/2673.ts
+#EXTINF:-1,|US|*****USA*****|US|
+http://world-ipsat.com:1155/live/najib/2018/2285.ts
+#EXTINF:-1,[USA] HBO
+http://world-ipsat.com:1155/live/najib/2018/2192.ts
+#EXTINF:-1,[USA] HBO ZONE
+http://world-ipsat.com:1155/live/najib/2018/2987.ts
+#EXTINF:-1,[USA] HBO COMEDY
+http://world-ipsat.com:1155/live/najib/2018/2989.ts
+#EXTINF:-1,[USA] HBO SIGNATURE
+http://world-ipsat.com:1155/live/najib/2018/2988.ts
+#EXTINF:-1,[USA] NBS GOLF HD
+http://world-ipsat.com:1155/live/najib/2018/2196.ts
+#EXTINF:-1,[USA] CBS ACTION HD
+http://world-ipsat.com:1155/live/najib/2018/2331.ts
+#EXTINF:-1,[USA] FX HD
+http://world-ipsat.com:1155/live/najib/2018/2195.ts
+#EXTINF:-1,[USA] SYFY HD
+http://world-ipsat.com:1155/live/najib/2018/2328.ts
+#EXTINF:-1,[USA]  TBS  HD
+http://world-ipsat.com:1155/live/najib/2018/2994.ts
+#EXTINF:-1,[USA] ABC News
+http://world-ipsat.com:1155/live/najib/2018/2997.ts
+#EXTINF:-1,[USA]  Discovery Investigation ID
+http://world-ipsat.com:1155/live/najib/2018/2191.ts
+#EXTINF:-1,[USA]  ANIMAL PLANET HD
+http://world-ipsat.com:1155/live/najib/2018/2996.ts
+#EXTINF:-1,[USA] DISCOVERY HD
+http://world-ipsat.com:1155/live/najib/2018/2993.ts
+#EXTINF:-1,[USA] ABC NEWS BK
+http://world-ipsat.com:1155/live/najib/2018/2990.ts
+#EXTINF:-1,[USA] DISCOVERY SCIENCE HD
+http://world-ipsat.com:1155/live/najib/2018/2992.ts
+#EXTINF:-1,[USA] DISCOVERY SHED
+http://world-ipsat.com:1155/live/najib/2018/2991.ts
+#EXTINF:-1,[USA] National Geographic HD
+http://world-ipsat.com:1155/live/najib/2018/1765.ts
+#EXTINF:-1,[USA] A&E TV HD
+http://world-ipsat.com:1155/live/najib/2018/1458.ts
+#EXTINF:-1,[USA]  Food Network HD
+http://world-ipsat.com:1155/live/najib/2018/1461.ts
+#EXTINF:-1,[USA] CNN HD
+http://world-ipsat.com:1155/live/najib/2018/2995.ts
+#EXTINF:-1,[USA] CNBC HD
+http://world-ipsat.com:1155/live/najib/2018/2330.ts
+#EXTINF:-1,[USA] WWE
+http://world-ipsat.com:1155/live/najib/2018/2986.ts
+#EXTINF:-1,[USA] BOOMBERANG
+http://world-ipsat.com:1155/live/najib/2018/2190.ts
+#EXTINF:-1,[USA] TSN 1HD
+http://world-ipsat.com:1155/live/najib/2018/1460.ts
+#EXTINF:-1,[USA] TSN 2HD
+http://world-ipsat.com:1155/live/najib/2018/1459.ts
+#EXTINF:-1,[USA] TSN 3 HD
+http://world-ipsat.com:1155/live/najib/2018/1456.ts
+#EXTINF:-1,[USA] TSN 4 HD
+http://world-ipsat.com:1155/live/najib/2018/1455.ts
+#EXTINF:-1,[USA] TSN 5 HD
+http://world-ipsat.com:1155/live/najib/2018/1454.ts
+#EXTINF:-1,[USA] Astro SUPER SPORT 1HD
+http://world-ipsat.com:1155/live/najib/2018/49.ts
+#EXTINF:-1,[USA] ASTRO SUPER SPORT 2HD
+http://world-ipsat.com:1155/live/najib/2018/53.ts
+#EXTINF:-1,[USA] ASTRO SUPER SPORT 3HD
+http://world-ipsat.com:1155/live/najib/2018/149.ts
+#EXTINF:-1,[USA] Bein Sports USA HD
+http://world-ipsat.com:1155/live/najib/2018/2329.ts
+#EXTINF:-1,[USA] C SPAN1
+http://world-ipsat.com:1155/live/najib/2018/3000.ts
+#EXTINF:-1,[AR] AL NAHAR DRAMA HD
+http://world-ipsat.com:1155/live/najib/2018/1447.ts
+#EXTINF:-1,[USA] BRAVO HD
+http://world-ipsat.com:1155/live/najib/2018/2999.ts
+#EXTINF:-1,[USA] C SPAN3
+http://world-ipsat.com:1155/live/najib/2018/2998.ts
+#EXTINF:-1,[USA] PAC 12 Net Los Angeles
+http://world-ipsat.com:1155/live/najib/2018/2189.ts
+#EXTINF:-1,[USA] ESPN 1HD
+http://world-ipsat.com:1155/live/najib/2018/1457.ts
+#EXTINF:-1,|USA| ESPN 2HD
+http://world-ipsat.com:1155/live/najib/2018/1948.ts

@@ -1,7 +1,5 @@
 #EXTM3U
 
-
-ENTERTAINMENT
 #EXTINF:-1 tvg-name="ABC" tvg-logo="" group-title="ENTERTAINMENT",ABC
 http://31.220.41.88:8081/live/us-abc.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-name="A&E" tvg-logo="" group-title="ENTERTAINMENT",A&E
@@ -34,7 +32,7 @@ http://31.220.41.88:8081/live/us-usanet.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/us-vh1.stream/token=null
 
 
-MOVIES
+
 #EXTINF:-1 tvg-name="CINEMAX" tvg-logo="" group-title="MOVIES",CINEMAX
 http://31.220.41.88:8081/live/us-cinemax.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="CINEMAX ACTION" tvg-logo="" group-title="MOVIES",CINEMAX ACTION
@@ -81,7 +79,7 @@ http://31.220.41.88:8081/live/us-starzencore.stream/token=null
 http://31.220.41.88:8081/live/us-syfy.stream/token=null
 
 
-KIDS
+
 #EXTINF:-1 tvg-name="BOOMERANG" tvg-logo="" group-title="KIDS",BOOMERANG
 http://31.220.41.88:8081/live/us-boomerang.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-name="CARTOON NETWORK" tvg-logo="" group-title="KIDS",CARTOON NETWORK
@@ -96,8 +94,7 @@ http://31.220.41.88:8081/live/us-nick.stream/playlist.m3u8?token=null
 http://31.220.41.88:8081/live/uk-nickjr.stream/token=null
 
 
-	
-DOCUMENTARIES
+
 #EXTINF:-1 tvg-name="Animal Planet" tvg-logo="" group-title="DOCUMENTARIES",Animal Planet
 http://31.220.41.88:8081/live/us-animal.stream/playlist.m3u8?token=null
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/1200px-Discovery_Channel_-_Logo_2019.svg.png" group-title="DOCUMENTARIES",DISCOVERY CHANNEL
@@ -106,7 +103,7 @@ http://31.220.41.88:8081/live/us-discovery.stream/playlist.m3u8
 http://31.220.41.88:8081/live/us-lifetime.stream/token=null
 
 
-SPORTS
+
 #EXTINF:-1 tvg-name="Bein Sports" tvg-logo="" group-title="SPORTS",Bein Sports
 http://31.220.41.88:8081/live/beinus.stream/chunks.m3u8?token=null
 #EXTINF:-1 tvg-name="ESPN" tvg-logo="" group-title="SPORTS",ESPN
@@ -119,9 +116,10 @@ http://31.220.41.88:8081/live/foxsports1.stream/chunks.m3u8?token=null
 http://31.220.41.88:8081/live/foxsports2.stream/chunks.m3u8?token=null
 
 
-NEWS
+
 #EXTINF:-1 tvg-name="ABC NEWS" tvg-logo="" group-title="NEWS",ABC NEWS
 http://31.220.41.88:8081/live/us-abcnews.stream/playlist.m3u8?token=null
+
 
 
 
